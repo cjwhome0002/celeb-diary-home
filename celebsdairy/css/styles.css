@@ -1,0 +1,12 @@
+@import "reset.css";
+.welcome_header {
+  margin: 100px 0px;
+  text-align: center;
+  font-size: 500%;
+  font-weight: 600;
+  color: antiquewhite;
+}
+
+body{
+  background-image: url(audience-1850119_1920.jpg);
+}
